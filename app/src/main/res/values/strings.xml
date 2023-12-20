@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="current_question"> </string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+
+    <string name="qf_1">Is Alice a boy?</string>
+    <string name="qf_2">Are all the fish mammals?</string>
+    <string name="qt_3">Is oxygen breathable?</string>
+    <string name="qt_4">Is the Earth bigger than the Moon?</string>
+    <string name="qf_5">Do the elephants have horns?</string>
+    <string name="qf_6">Is the sun the only star in our galaxy?</string>
+    <string name="qt_7">Is Madonna the queen of pop?</string>
+    <string name="qf_8">Are all programmers male?</string>
+
+    <string name="correct_answer">Correct</string>
+    <string name="incorrect_answer">Incorrect</string>
+    <string name="guess_the_name">Guess the name</string>
+    <string name="input_guess">Enter your guess</string>
+
+</resources>
